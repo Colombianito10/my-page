@@ -1,3 +1,7 @@
-body{
+.my-green-button {
     background-color: lime;
+}
+.my-purple-button {
+    background-color: purple;
+    color: aqua;
 }
