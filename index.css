@@ -12,5 +12,10 @@
 }
 
 .big-text {
-    font-size: 20px;
+  font-size: 20px;
+}
+
+.imag {
+  width: 100px;
+  height: 100px;
 }
